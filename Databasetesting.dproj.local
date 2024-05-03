@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024-04-14 10:35:51.241,=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024-04-14 10:36:32.455,C:\Users\SONY\Desktop\Delphi\Sql3\TestingMysql.dfm=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024-04-14 10:36:32.455,C:\Users\SONY\Desktop\Delphi\Sql3\TestingMysql.pas=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024-04-14 10:36:48.972,C:\Users\SONY\Desktop\Delphi\Sql3\Databasetesting.dproj=C:\Users\SONY\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024-04-14 10:37:02.726,=C:\Users\SONY\Desktop\Delphi\Sql3\Unit1.pas</Transaction>
+    <Transaction>2024-04-14 10:37:24.503,C:\Users\SONY\Desktop\Delphi\Sql3\DataModule.dfm=C:\Users\SONY\Desktop\Delphi\Sql3\Unit1.dfm</Transaction>
+    <Transaction>2024-04-14 10:37:24.503,C:\Users\SONY\Desktop\Delphi\Sql3\DataModule.pas=C:\Users\SONY\Desktop\Delphi\Sql3\Unit1.pas</Transaction>
+    <Transaction>2024-04-14 10:48:29.840,=C:\Users\SONY\Desktop\Delphi\Sql3\Unit2.pas</Transaction>
+    <Transaction>2024-04-14 10:49:11.259,C:\Users\SONY\Desktop\Delphi\Sql3\DataM2.pas=C:\Users\SONY\Desktop\Delphi\Sql3\Unit2.pas</Transaction>
+    <Transaction>2024-04-14 10:49:11.259,C:\Users\SONY\Desktop\Delphi\Sql3\DataM2.dfm=C:\Users\SONY\Desktop\Delphi\Sql3\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
